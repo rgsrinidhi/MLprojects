@@ -4,5 +4,5 @@ This a repository to track my learnings in deep neural networks
 
 1) Simple perceptron
 2) Attention is all you need simple transformer
-3) 
+3) LoRA Toy model fine tuning
    
